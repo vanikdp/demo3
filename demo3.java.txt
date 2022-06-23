@@ -3,5 +3,6 @@ class demo3
 public static void main(strin args[])
 {
 system.out.println("my first demo");
+system.out.println("demo3");
 }
 }
