@@ -4,5 +4,6 @@ public static void main(strin args[])
 {
 system.out.println("my first demo");
 system.out.println("demo3");
+system.out.println("demo");
 }
 }
